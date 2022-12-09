@@ -1,0 +1,52 @@
+body{
+    background-color:blanchedalmond;
+}
+nav{
+    background-color: burlywood;
+    color:rgb(202, 18, 18)
+    border 2px solid
+}
+
+header{
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+
+}
+
+
+.navbar{
+    display: flex;
+    list-style: none;
+    text-align: center;
+}
+.navbar li {
+    padding: 5px;
+    flex-grow: 3;
+    text-align: center;
+}
+
+.REZZ.jpg{
+    display: block;
+    margin:auto
+}
+
+.REZZVideo{
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+
+.History{
+    color: brown;
+}
+
+.Types{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Zen Dots', cursive;
+    color: aqua;
+}
+
+.FavArtists{
+    color: blueviolet;
+}
+
